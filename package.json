@@ -1,0 +1,24 @@
+{
+  "name": "gulp-auto-trycatch",
+  "version": "1.0.0",
+  "description": "gfs-auto-trycatch for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future-team/gulp-auto-trycatch.git"
+  },
+  "author": "lee.genffy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future-team/gulp-auto-trycatch/issues"
+  },
+  "homepage": "https://github.com/future-team/gulp-auto-trycatch#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "gfs-auto-trycatch": "file:/usr/local/lib/node_modules/gfs-auto-trycatch"
+  }
+}
