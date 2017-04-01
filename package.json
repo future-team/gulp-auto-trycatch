@@ -19,6 +19,8 @@
   "dependencies": {
     "gulp-util": "^3.0.8",
     "through2": "^2.0.3",
+    "object-assign": "^4.0.1",
+    "replace-ext": "0.0.1",
     "gfs-auto-trycatch": "file:/usr/local/lib/node_modules/gfs-auto-trycatch"
   }
 }
