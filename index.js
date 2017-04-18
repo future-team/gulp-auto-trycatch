@@ -4,7 +4,7 @@ var through = require('through2');
 var gutil = require('gulp-util');
 var objectAssign = require('object-assign');
 var path = require('path');
-var gfsAutoTrycatch = require('/usr/local/lib/node_modules/gfs-auto-trycatch');
+var gfsAutoTrycatch = require('gfs-auto-trycatch');
 // 常量
 var PLUGIN_NAME = 'gulp-auto-trycatch';
 
