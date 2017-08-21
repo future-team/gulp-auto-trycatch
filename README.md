@@ -40,3 +40,6 @@ gulp.task('autoTryCatch', function () {
         .pipe(gulp.dest('./catch'));
 });
 ```
+
+## Note
+Currently only test in  `jsx` and `es6` syntax.
